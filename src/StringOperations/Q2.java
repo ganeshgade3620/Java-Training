@@ -3,8 +3,8 @@ import java.util.Arrays;
 public class Q2 {
     public static void main(String[] args) {
 
-        String s = "jar";
-        String t = "raj";
+        String s = "rat";
+        String t = "car";
         if(s.length ()!=t.length ()){
             System.out.println ("two strings length are diffrent so not an anagram");
         }else {
